@@ -175,7 +175,7 @@ require_once 'includes/plantillas/header.php'; ?>
                 <div>
                     <div class="slide-item item-servicios">
                         <div class="img-item">
-                            <img loading="lazy" src="img/procedimiento-01.jpg" alt="">
+                            <img loading="lazy" src="img/procedimiento-01.jpg" alt="Radiofrecuencia Láse - Tratamiento para Varices y Arañitas">
                         </div>
                         <div class="info-item">
                             <h4>Radiofrecuencia / Laser</h4>
@@ -189,7 +189,7 @@ require_once 'includes/plantillas/header.php'; ?>
                 <div>
                     <div class="slide-item item-servicios">
                         <div class="img-item">
-                            <img loading="lazy" src="img/procedimiento-02.jpg" alt="">
+                            <img loading="lazy" src="img/procedimiento-02.jpg" alt="Tratamiento de Esclerosantes para Várices y Arañitas">
                         </div>
                         <div class="info-item">
                             <h4>Esclerosantes</h4>
@@ -203,7 +203,7 @@ require_once 'includes/plantillas/header.php'; ?>
                 <div>
                     <div class="slide-item item-servicios">
                         <div class="img-item">
-                            <img loading="lazy" src="img/procedimiento-03.jpg" alt="">
+                            <img loading="lazy" src="img/procedimiento-03.jpg" alt="Cirugia Laser para várices y arañitas">
                         </div>
                         <div class="info-item">
                             <h4>Cirugia Laser</h4>
@@ -217,12 +217,12 @@ require_once 'includes/plantillas/header.php'; ?>
                 <div>
                     <div class="slide-item item-servicios">
                         <div class="img-item">
-                            <img loading="lazy" src="img/procedimiento-04.jpg" alt="">
+                            <img loading="lazy" src="img/procedimiento-04.jpg" alt="Cirugia convencional para varices y arañitas">
                         </div>
                         <div class="info-item">
                             <h4>Cirugía Convencional</h4>
                             <p>
-                                Extracción del trayecto de la várice de modo quirurgico.<br>Procedimiento a realizar en quirófano.
+                                Extracción del trayecto de la várice de modo quirúrgico.<br>Procedimiento a realizar en quirófano.
                             </p>
                             <a class="btn-info" href="tratamientos-varices"><i class="las la-arrow-right"></i></a>
                         </div>

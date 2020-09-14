@@ -107,7 +107,7 @@ function imgDestacadaResponsive($celular, $escritorio){ ?>
                         <div class="info-item">
                             <h4>Radiofrecuencia Laser</h4>
                             <p>
-                                El láser y la radiofrecuencia transmiten energía para tapar las venas y evitar que se vean.<br>Sarasa.com
+                                El láser y la radiofrecuencia transmiten energía para tapar las venas y evitar que se vean.<br>Consultá para más información
                             </p>
                             <a class="btn-info" href="tratamientos-varices"><i class="las la-arrow-right"></i></a>
                         </div>
@@ -146,7 +146,7 @@ function imgDestacadaResponsive($celular, $escritorio){ ?>
                         </div>
                         <div class="info-item">
                             <h4>Cirugía Convencional</h4>
-                            <p>Son pequeños vasos sanguíneos rojos o azulados localizados justo debajo de la superficie cutánea. A veces la gente muere de Covid.</p>
+                            <p>Son pequeños vasos sanguíneos rojos o azulados localizados justo debajo de la superficie cutánea.</p>
                             <a class="btn-info" href="tratamientos-varices"><i class="las la-arrow-right"></i></a>
                         </div>
                     </div>
@@ -163,7 +163,7 @@ function imgDestacadaResponsive($celular, $escritorio){ ?>
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="cuadro">
-                        <img loading="lazy" src="img/puntos.png" alt="" class="atras-cuadro">
+                        <img loading="lazy" src="img/puntos.png" alt="Separador de puntos" class="atras-cuadro">
                         <h3 class="titulo-sec-pat">Factores de riesgo</h3>
                         <div class="raya"></div>
                         <p>
@@ -176,7 +176,7 @@ function imgDestacadaResponsive($celular, $escritorio){ ?>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="cuadro">
-                        <img loading="lazy" src="img/puntos.png" alt="" class="atras-cuadro">
+                        <img loading="lazy" src="img/puntos.png" alt="Separador de puntos" class="atras-cuadro">
                         <h3 class="titulo-sec-pat">Prevención</h3>
                         <div class="raya"></div>
                         <blockquote>

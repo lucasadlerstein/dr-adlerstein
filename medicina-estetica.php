@@ -44,7 +44,7 @@ require_once 'includes/plantillas/header.php'; ?>
                 <div class="p2-contenido">
                     <div class="cont">
                         <h2>Descubrí una nueva vos</h2>
-                        <p>Dejá atras lo que nunca te gustó</p>
+                        <p>Dejá atrás lo que nunca te gustó</p>
                         <p>
                             La <strong>medicina estética</strong> es la rama de la medicina que privilegia la relación entre la salud y la belleza con un abordaje terapéutico clínico.
                         </p>
@@ -65,19 +65,19 @@ require_once 'includes/plantillas/header.php'; ?>
                 <h2 class="titulo-seccion">Tratamientos Estéticos</h2>
                 <div class="descripcion-seccion">
                     <p>
-                        Tratamientos esteticos medicos.<br>Siempre priorizando tu salud, bienestar y belleza.
+                        Tratamientos estéticos médicos.<br>Siempre priorizando tu salud, bienestar y belleza.
                     </p>
                 </div>
             </div>
             <div class="carousel-tratamientos">
                 <div class="slide-item item-servicios">
                     <div class="img-item">
-                        <img loading="lazy" src="img/botox.jpg" alt="">
+                        <img loading="lazy" src="img/botox.jpg" alt="Botox para Arrugas en Frente, Menton, Pata Gallo">
                     </div>
                     <div class="info-item">
                         <h4>Botox</h4>
                         <p>
-                            Para arrugas de la frente, entre cejo y patas de gallo.
+                            Para arrugas de la frente, entrecejo y patas de gallo.
                             Es la aplicación de <strong>TOX</strong>ina <strong>BO</strong>tulinica para lograr que no se puedan mover esos músculos, entonces no se frunce la piel.
                         </p>
                         <a target="_blank" href="turnos" class="btn-doc btn-turno">Sacar turno Online</a>
@@ -85,7 +85,7 @@ require_once 'includes/plantillas/header.php'; ?>
                 </div>
                 <div class="slide-item item-servicios">
                     <div class="img-item">
-                        <img loading="lazy" src="img/mesoterapia.jpg" alt="">
+                        <img loading="lazy" src="img/mesoterapia.jpg" alt="Tratamiento de Mesoterapia">
                     </div>
                     <div class="info-item">
                         <h4>Mesoterapia</h4>
@@ -95,7 +95,7 @@ require_once 'includes/plantillas/header.php'; ?>
                 </div>
                 <div class="slide-item item-servicios">
                     <div class="img-item">
-                        <img loading="lazy" src="img/prp.jpg" alt="">
+                        <img loading="lazy" src="img/prp.jpg" alt="Plasma Rico en Plaquetas - PRP">
                     </div>
                     <div class="info-item">
                         <h4>Plasma Rico en Plaquetas</h4>
@@ -107,7 +107,7 @@ require_once 'includes/plantillas/header.php'; ?>
                 </div>
                 <div class="slide-item item-servicios">
                     <div class="img-item">
-                        <img loading="lazy" src="img/acido-hialuronico.jpg" alt="">
+                        <img loading="lazy" src="img/acido-hialuronico.jpg" alt="Ácido Hialuronico">
                     </div>
                     <div class="info-item">
                         <h4>Acido Hialuronico</h4>
@@ -117,11 +117,11 @@ require_once 'includes/plantillas/header.php'; ?>
                 </div>
                 <div class="slide-item item-servicios">
                     <div class="img-item">
-                        <img loading="lazy" src="img/adiposidad-localizada.jpg" alt="">
+                        <img loading="lazy" src="img/adiposidad-localizada.jpg" alt="Adiposidad localizada - Hidrolipoclaria ultrasonica">
                     </div>
                     <div class="info-item">
                         <h4>Hidrolipoclasia Ultrasónica</h4>
-                        <p>Se inyecta en adiposidades localizadas una solución especifica lipolítica, la cual produce la destrucción química de la adiposidad y mediante ultrasonido se realiza desde la superficie de la piel la destrucción física de la adiposidad.</p>
+                        <p>Se inyecta en adiposidades localizadas una solución específica lipolítica, la cual produce la destrucción química de la adiposidad y mediante ultrasonido se realiza desde la superficie de la piel la destrucción física de la adiposidad.</p>
                         <a target="_blank" href="turnos" class="btn-doc btn-turno">Sacar turno Online</a>
                     </div>
                 </div>

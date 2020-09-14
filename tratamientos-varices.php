@@ -26,7 +26,7 @@ function imgDestacadaResponsive($celular, $escritorio){ ?>
     <div class="container">
         <div class="row">
             <div class="col-lg-6 col-md-12 md-pb-15">
-                <img class="border-doc la-sombra" src="img/procedimiento-01.jpg" alt="">
+                <img class="border-doc la-sombra" src="img/procedimiento-01.jpg" alt="Radiofrecuencia Láser para Arañitas">
             </div>
             <div class="col-lg-6 col-md-12">
                 <h2 class="mini-titulo texto-secundario">Radiofrecuencia para Arañitas</h2>
@@ -90,7 +90,7 @@ function imgDestacadaResponsive($celular, $escritorio){ ?>
                     Puede usarse para las venas varicosas superficiales, residuales o las venas varicosas recurrentes y las microvárices para obliterar la vena varicosa y hacerla desaparecer.
                 </p>
                 <p class="mini-descripcion texto-blanco">
-                    Se inyecta una medicación especifica para cada paciente.
+                    Se inyecta una medicación específica para cada paciente.
                 </p>
                 <p class="mini-descripcion texto-blanco">
                     Posteriormente, pueden aplicarse apósitos compresivos en el sitio de inyección y vendajes compresivos, entre cuyas opciones se incluyen vendaje crepe, vendaje elástico comercial o medias compresivas.
@@ -120,7 +120,7 @@ function imgDestacadaResponsive($celular, $escritorio){ ?>
                 </p>
                 <div class="collapse" id="tratamiento3">
                     <p class="mini-descripcion">
-                        Se realiza en quirofano para las varices mas grandes, es mas estetico que la Microcirugia, el procedimiento es similar, la recuperacion es mas rapida y el vendaje se utiliza 24 hs. la vuelta a la actividad es inmediata.
+                        Se realiza en quirofano para las varices mas grandes, es mas estético que la Microcirugia, el procedimiento es similar, la recuperacion es mas rapida y el vendaje se utiliza 24 hs. la vuelta a la actividad es inmediata.
                     </p>
                 </div>
                 <a class="btn-vermas" data-toggle="collapse" href="#tratamiento3" role="button" aria-expanded="false" aria-controls="tratamiento3">Leer mas</a>

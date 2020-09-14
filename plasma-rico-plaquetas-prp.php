@@ -53,7 +53,7 @@ function imgDestacadaResponsive($celular, $escritorio){ ?>
             <div class="row">
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="cuadro">
-                        <img loading="lazy" src="img/puntos.png" alt="" class="atras-cuadro">
+                        <img loading="lazy" src="img/puntos.png" alt="Separador" class="atras-cuadro">
                         <h3 class="titulo-sec-pat">En la artrosis</h3>
                         <div class="raya"></div>
                         <p><strong>
@@ -73,7 +73,7 @@ function imgDestacadaResponsive($celular, $escritorio){ ?>
                 </div>
                 <div class="col-lg-6 col-md-6 col-sm-12">
                     <div class="cuadro">
-                        <img loading="lazy" src="img/puntos.png" alt="" class="atras-cuadro">
+                        <img loading="lazy" src="img/puntos.png" alt="Separador" class="atras-cuadro">
                         <h3 class="titulo-sec-pat">En la caída del cabello</h3>
                         <div class="raya"></div>
                         <p>

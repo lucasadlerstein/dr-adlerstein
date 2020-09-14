@@ -24,7 +24,7 @@
                             </blockquote>
                             <div class="paciente">
                                 <p class="nombre-paciente">Mirna Carolina Francini</p>
-                                <p>Paciente Flebologica</p>
+                                <p>Paciente Flebológica</p>
                             </div>
                         </div>
                     </div>
@@ -42,7 +42,7 @@
                             </blockquote>
                             <div class="paciente">
                                 <p class="nombre-paciente">Adriana Bauleo</p>
-                                <p>Paciente Flebologica</p>
+                                <p>Paciente Flebológica</p>
                             </div>
                         </div>
                     </div>
@@ -60,7 +60,7 @@
                             </blockquote>
                             <div class="paciente">
                                 <p class="nombre-paciente">Camila Cacciavillani</p>
-                                <p>Paciente Flebologica</p>
+                                <p>Paciente Flebológica</p>
                             </div>
                         </div>
                     </div>
@@ -78,7 +78,7 @@
                             </blockquote>
                             <div class="paciente">
                                 <p class="nombre-paciente">Anto Gallozo</p>
-                                <p>Paciente Flebologica</p>
+                                <p>Paciente Flebológica</p>
                             </div>
                         </div>
                     </div>

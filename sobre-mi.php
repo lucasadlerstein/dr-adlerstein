@@ -22,7 +22,7 @@ require_once 'includes/plantillas/header.php'; ?>
                         <li><i class="las la-star"></i>Flebólogo, Asociación Médica Argentina en 1995</li>
                         <li><i class="las la-star"></i>Miembro de la Asociación Argentina de Flebología</li>
                         <li><i class="las la-star"></i>Miembro Asociación Argentina MAAC</li>
-                        <li><i class="las la-star"></i>Miembro Colegio Americano de Cirugía Flebologica</li>
+                        <li><i class="las la-star"></i>Miembro Colegio Americano de Cirugía Flebológica</li>
                         <li><i class="las la-star"></i>Fellow of The American College of Phlebology Surgeon</li>
                     </ul>
                 </div>

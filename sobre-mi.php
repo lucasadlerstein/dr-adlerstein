@@ -95,7 +95,7 @@ require_once 'includes/plantillas/header.php'; ?>
                         </tbody>
                     </table>
                 </div>
-                <h3 class="mini-titulo fw-500 mb-4 mt-5">Consultorios</h3>
+                <!-- <h3 class="mini-titulo fw-500 mb-4 mt-5">Consultorios</h3>
                 <div class="info-seccion">
                     <div class="row consultorios">
                         <div class="col-xl-5 col-md-6 col-sm-12">
@@ -139,7 +139,7 @@ require_once 'includes/plantillas/header.php'; ?>
                                 </div>
                                 <div class="p-icono cons-info">
                                     <i class="las la-phone"></i>
-                                    <p>11 5499 9937</p>
+                                    <p>11 2409 4837</p>
                                 </div>
                                 <div class="cons-turno">
                                     <a href="turnos" target="_blank">Solicitar Turno</a>
@@ -163,7 +163,7 @@ require_once 'includes/plantillas/header.php'; ?>
                                 </div>
                                 <div class="p-icono cons-info">
                                     <i class="las la-phone"></i>
-                                    <p>11 5499 9937</p>
+                                    <p>11 2409 4837</p>
                                 </div>
                                 <div class="cons-turno">
                                     <a href="turnos" target="_blank">Solicitar Turno</a>
@@ -211,7 +211,7 @@ require_once 'includes/plantillas/header.php'; ?>
                                 </div>
                                 <div class="p-icono cons-info">
                                     <i class="las la-phone"></i>
-                                    <p>11-5499-9937</p>
+                                    <p>11 2409 4837</p>
                                 </div>
                                 <div class="cons-turno">
                                     <a href="#" data-toggle="modal" data-target="#sacar-turno-modal">Solicitar Turno</a>
@@ -219,7 +219,7 @@ require_once 'includes/plantillas/header.php'; ?>
                             </div>
                         </div>
                     </div>
-                </div>
+                </div> -->
             </div>
             <div class="col-lg-4 col-md-12 mt-md">
                 <div class="info-seccion">
@@ -238,14 +238,14 @@ require_once 'includes/plantillas/header.php'; ?>
                                 <i class="las la-envelope"></i>dr@adlerstein.com.ar
                                 </a>
                             </li>
-                            <li>
-                                <a href="tel:5491154999937">
-                                <i class="las la-phone"></i>11 5499 9937
+                            <!-- <li>
+                                <a href="tel:5491124094837">
+                                <i class="las la-phone"></i>11 2409 4837
                                 </a> 
-                            </li>
+                            </li> -->
                             <li>
-                                <a href="https://wa.me/5491154999937">
-                                <i class="lab la-whatsapp"></i>11 5499 9937
+                                <a href="https://wa.me/5491124094837">
+                                <i class="lab la-whatsapp"></i>11 2409 4837
                                 </a>
                             </li>
                         </ul>
@@ -282,16 +282,16 @@ require_once 'includes/plantillas/header.php'; ?>
                                     <i class="las la-caret-right"></i>Belgrano
                                 </a>
                             </li>
-                            <li>
+                            <!-- <li>
                                 <a class="texto-blanco" data-toggle="modal" data-target="#sacar-turno-modal">
                                     <i class="las la-caret-right"></i>San Miguel
                                 </a>
-                            </li>
-                            <li>
+                            </li> -->
+                            <!-- <li>
                                 <a class="texto-blanco" data-toggle="modal" data-target="#sacar-turno-modal">
                                     <i class="las la-caret-right"></i>Tigre
                                 </a>
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
                 </div>

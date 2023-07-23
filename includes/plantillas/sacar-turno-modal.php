@@ -16,7 +16,7 @@
             </div>
             <div class="modal-footer">
                 <a target="_blank" href="turnos" class="btn-doc btn-turno">Sacar turno Online</a>
-                <a target="_blank" href="https://wa.me/5491154999937" class="btn-icono bg-wpp texto-blanco">
+                <a target="_blank" href="https://wa.me/5491124094837" class="btn-icono bg-wpp texto-blanco">
                     <i class="lab la-whatsapp" style="font-size:20px;"></i> Enviar WhatsApp
                 </a>
             </div>

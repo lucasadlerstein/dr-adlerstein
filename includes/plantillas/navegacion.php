@@ -10,8 +10,8 @@
                 <li class="contacto-informacion">
                     <i class="icono-contacto las la-phone"></i>
                     <span class="cont-info">
-                            <span>Teléfono</span>
-                    <a href="tel:5491154999937">+54 9 11 5499 9937</a>
+                        <span>WhatsApp</span>
+                    <a href="https://wa.me/5491124094837">+54 9 11 2409 4837</a>
                     </span>
                 </li>
                 <li class="contacto-informacion">
@@ -56,7 +56,7 @@
                             <a class="nav-link" target="_blank" href="https://www.instagram.com/dr.fabioadlerstein/"><i class="lab la-instagram"></i></a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" target="_blank" href="https://wa.me/5491154999937"><i class="lab la-whatsapp"></i></a>
+                            <a class="nav-link" target="_blank" href="https://wa.me/5491124094837"><i class="lab la-whatsapp"></i></a>
                         </li>
                         <li style="margin: auto 0" class="no-mobile">
                             <a target="_blank" href="turnos" class="btn-doc btn-turno-header">Sacar turno</a>

@@ -19,17 +19,17 @@ require_once 'includes/plantillas/header.php'; ?>
                         <div class="bg-primario h-con direccion-contacto borde-red-a">
                             <div class="text-left">
                                 <div class="dir-item">
-                                    <i class="dir-icono las la-mobile"></i>
+                                    <!-- <i class="dir-icono las la-mobile"></i>
                                     <div class="dir-contenido">
                                         <h3 class="dir-titulo">Teléfono</h3>
-                                        <a href="tel:5491154999937" target="_blank" class="dir-info">11 5499 9937</a>
-                                    </div>
+                                        <a href="tel:5491124094837" target="_blank" class="dir-info">11 2409 4837</a>
+                                    </div> -->
                                 </div>
                                 <div class="dir-item">
                                     <i class="dir-icono lab la-whatsapp"></i>
                                     <div class="dir-contenido">
                                         <h3 class="dir-titulo">WhatsApp</h3>
-                                        <a href="https://wa.me/5491154999937" target="_blank" class="dir-info">+54 9 11 5499 9937</a>
+                                        <a href="https://wa.me/5491124094837" target="_blank" class="dir-info">+54 9 11 2409 4837</a>
                                     </div>
                                 </div>
                                 <div class="dir-item">
@@ -43,7 +43,7 @@ require_once 'includes/plantillas/header.php'; ?>
                                     <i class="dir-icono las la-map-marker"></i>
                                     <div class="dir-contenido">
                                         <h3 class="dir-titulo">Dirección</h3>
-                                        <a href="#mapas" id="dire-clic" class="dir-info scrollTo">Palermo, San Isidro, Belgrano, Tigre.</a>
+                                        <a href="#mapas" id="dire-clic" class="dir-info scrollTo">Palermo, San Isidro, Belgrano.</a>
                                     </div>
                                 </div>
                             </div>
@@ -61,7 +61,7 @@ require_once 'includes/plantillas/header.php'; ?>
         </div>
     </div>
 
-    <div class="mapas" id="mapas">
+    <!-- <div class="mapas" id="mapas">
         <div class="container pad-100 pb-5 titulo text-center">
             <h2 class="titulo-seccion texto-primario no-margin">Encontranos</h2>
             <div class="descripcion-seccion">
@@ -93,6 +93,6 @@ require_once 'includes/plantillas/header.php'; ?>
                 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3290.6010086245033!2d-58.5971261849244!3d-34.43688858050304!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1b549606b9b9079%3A0xffb59220ef800238!2sCentro%20M%C3%A9dico%20del%20Sol!5e0!3m2!1ses-419!2sar!4v1600098193598!5m2!1ses-419!2sar" width="100%" height="500" frameborder="0" style="border:0;" allowfullscreen="" aria-hidden="false" tabindex="0"></iframe>
             </div>
         </div>
-    </div>
+    </div> -->
     
 <?php require_once 'includes/plantillas/footer.php'; ?>

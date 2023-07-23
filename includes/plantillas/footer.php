@@ -22,14 +22,14 @@
                                 <i class="las la-envelope"></i>dr@adlerstein.com.ar
                                 </a>
                             </li>
-                            <li>
-                                <a href="tel:5491154999937">
-                                <i class="las la-phone"></i>11 5499 9937
+                            <!-- <li>
+                                <a href="tel:5491124094837">
+                                <i class="las la-phone"></i>11 2409 4837
                                 </a> 
-                            </li>
+                            </li> -->
                             <li>
-                                <a href="https://wa.me/5491154999937" target="_blank">
-                                <i class="lab la-whatsapp"></i>11 5499 9937
+                                <a href="https://wa.me/5491124094837" target="_blank">
+                                <i class="lab la-whatsapp"></i>11 2409 4837
                                 </a>
                             </li>
                         </ul>
@@ -52,12 +52,12 @@
                             <li>
                                 <i class="las la-caret-right"></i> Belgrano
                             </li>
-                            <li>
+                            <!-- <li>
                                 <i class="las la-caret-right"></i> Tigre
-                            </li>
-                            <li>
+                            </li> -->
+                            <!-- <li>
                                 <i class="las la-caret-right"></i> San Miguel
-                            </li>
+                            </li> -->
                         </ul>
                     </div>
 
@@ -90,7 +90,7 @@
                                 <a target="_blank" href="https://www.instagram.com/dr.fabioadlerstein/"><i class="lab la-instagram"></i></a>
                             </li>
                             <li>
-                                <a target="_blank" href="https://wa.me/5491154999937"><i class="lab la-whatsapp"></i></a>
+                                <a target="_blank" href="https://wa.me/5491124094837"><i class="lab la-whatsapp"></i></a>
                             </li>
                         </ul>
                     </div>
@@ -113,7 +113,7 @@
 </div>
 
 <div class="globo-wpp">
-    <a href="https://wa.me/5491154999937" target="_blank">
+    <a href="https://wa.me/5491124094837" target="_blank">
         <img src="img/whatsapp_logo.jpg" alt="Enviar WhatsApp al Dr. Adlerstein">
     </a>
 </div>

@@ -18,21 +18,21 @@
                     <i class="icono-contacto las la-map-marked"></i>
                     <span class="cont-info">
                             <span>San Isidro</span>
-                    <a href="#">Av. del Libertador 16483</a>
+                    <a target="_blank" href="https://goo.gl/maps/XejewKRqg8BUFnQh7">Av. del Libertador 16483</a>
                     </span>
                 </li>
                 <li class="contacto-informacion">
                     <i class="icono-contacto las la-map-marked"></i>
                     <span class="cont-info">
                             <span>Palermo</span>
-                    <a href="#">Av. Scalabrini Ortiz 3355</a>
+                    <a target="_blank" href="https://goo.gl/maps/uz9L4i4cvBrWChjh6">Av. Scalabrini Ortiz 3355, 1D</a>
                     </span>
                 </li>
                 <li class="contacto-informacion">
                     <i class="icono-contacto las la-map-marked"></i>
                     <span class="cont-info">
                             <span>Belgrano</span>
-                    <a href="#">Av. Juramento 2041</a>
+                    <a target="_blank" href="https://goo.gl/maps/o5kkfG13tkistgjdA">Av. Juramento 2149, PB4</a>
                     </span>
                 </li>
                 <li class="contacto-informacion no-border">

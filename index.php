@@ -244,7 +244,7 @@ require_once 'includes/plantillas/header.php'; ?>
                     <div>
                         <h2 class="sub-mini-titulo texto-blanco">Hacé tu consulta</h2>
                     </div>
-                    <?php require_once 'includes/plantillas/formulario-contacto.php'; ?>
+                    <!-- require_once 'includes/plantillas/formulario-contacto.php; -->
                 </div>
             </div>
             <div class="col-lg-5 col-md-12 no-padding">

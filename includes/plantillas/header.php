@@ -19,6 +19,8 @@
     <link rel="stylesheet" href="css/estilos.css">
     <link rel="stylesheet" href="css/animaciones.css">
 
+    <meta name="facebook-domain-verification" content="lf4fmga6wrlg3p632dnuuae940fta9" />
+
     <!-- Meta Pixel Code -->
     <script>
         !function(f,b,e,v,n,t,s)

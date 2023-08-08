@@ -11,21 +11,28 @@
                     <i class="icono-contacto las la-phone"></i>
                     <span class="cont-info">
                         <span>WhatsApp</span>
-                    <a href="https://wa.me/5491124094837">+54 9 11 2409 4837</a>
-                    </span>
-                </li>
-                <li class="contacto-informacion">
-                    <i class="icono-contacto las la-envelope-open"></i>
-                    <span class="cont-info">
-                            <span>Email</span>
-                    <a href="mailto:dr@adlerstein.com.ar">dr@adlerstein.com.ar</a>
+                    <a href="https://wa.me/5491124094837" target="_blank">+54 9 11 2409 4837</a>
                     </span>
                 </li>
                 <li class="contacto-informacion">
                     <i class="icono-contacto las la-map-marked"></i>
                     <span class="cont-info">
                             <span>San Isidro</span>
-                    <a href="contacto#mapas">Av. del Libertador 16483</a>
+                    <a href="#">Av. del Libertador 16483</a>
+                    </span>
+                </li>
+                <li class="contacto-informacion">
+                    <i class="icono-contacto las la-map-marked"></i>
+                    <span class="cont-info">
+                            <span>Palermo</span>
+                    <a href="#">Av. Scalabrini Ortiz 3355</a>
+                    </span>
+                </li>
+                <li class="contacto-informacion">
+                    <i class="icono-contacto las la-map-marked"></i>
+                    <span class="cont-info">
+                            <span>Belgrano</span>
+                    <a href="#">Av. Juramento 2041</a>
                     </span>
                 </li>
                 <li class="contacto-informacion no-border">

@@ -28,31 +28,51 @@ require_once 'includes/plantillas/header.php'; ?>
                                 <div class="dir-item">
                                     <i class="dir-icono lab la-whatsapp"></i>
                                     <div class="dir-contenido">
-                                        <h3 class="dir-titulo">WhatsApp</h3>
-                                        <a href="https://wa.me/5491124094837" target="_blank" class="dir-info">+54 9 11 2409 4837</a>
+                                        <a href="https://wa.me/5491124094837?text=Hola,%20quisiera%20consultar%20sobre%20.....%20en%20el%20consultorio%20de%20Belgrano." target="_blank" class="dir-info">
+                                            <h3 class="dir-titulo">WhatsApp Belgrano</h3>
+                                            +54 9 11 2409 4837
+                                        </a>
                                     </div>
                                 </div>
                                 <div class="dir-item">
+                                    <i class="dir-icono lab la-whatsapp"></i>
+                                    <div class="dir-contenido">
+                                        <a href="https://wa.me/5491124094837?text=Hola,%20quisiera%20consultar%20sobre%20.....%20en%20el%20consultorio%20de%20Palermo." target="_blank" class="dir-info">
+                                            <h3 class="dir-titulo">WhatsApp Palermo</h3>
+                                            +54 9 11 2409 4837
+                                        </a>
+                                    </div>
+                                </div>
+                                <div class="dir-item">
+                                    <i class="dir-icono lab la-whatsapp"></i>
+                                    <div class="dir-contenido">
+                                        <a href="https://wa.me/5491124094837?text=Hola,%20quisiera%20consultar%20sobre%20.....%20en%20el%20consultorio%20de%20San%20Isidro." target="_blank" class="dir-info">
+                                            <h3 class="dir-titulo">WhatsApp San Isidro</h3>
+                                            +54 9 11 2409 4837
+                                        </a>
+                                    </div>
+                                </div>
+                                <!-- <div class="dir-item">
                                     <i class="dir-icono las la-envelope-open"></i>
                                     <div class="dir-contenido">
                                         <h3 class="dir-titulo">Email</h3>
                                         <a href="mailto:dr@adlerstein.com.ar" target="_blank" class="dir-info">dr@adlerstein.com.ar</a>
                                     </div>
-                                </div>
-                                <div class="dir-item">
+                                </div> -->
+                                <!-- <div class="dir-item">
                                     <i class="dir-icono las la-map-marker"></i>
                                     <div class="dir-contenido">
                                         <h3 class="dir-titulo">Dirección</h3>
                                         <a href="#mapas" id="dire-clic" class="dir-info scrollTo">Palermo, San Isidro, Belgrano.</a>
                                     </div>
-                                </div>
+                                </div> -->
                             </div>
                         </div>
                     </div>
                     <div class="col-lg-7 col-md-12 no-padding">
                         <div class="bg-secundario h-con borde-red-b">
                             <div class="formulario-inicio">
-                                <?php require_once 'includes/plantillas/formulario-contacto.php'; ?>
+                                <!-- // require_once 'includes/plantillas/formulario-contacto.php'; -->
                             </div>
                         </div>
                     </div>
